@@ -217,12 +217,79 @@ Learning by building
 
 ### ☁️ Cloud & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,git,github,firebase,flask,fastapi" />
+<!-- ================= GOOGLE CLOUD ================= -->
+
+## ☁️ Google Cloud & Arcade Journey
+
+<p align="center">
+
+<a href="https://www.skills.google/public_profiles/61c9fedc-1b47-469b-8d9e-cbba5ae21c38">
+  <img
+    src="https://img.shields.io/badge/🏆_Google_Cloud_Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+  />
+</a>
+
+<a href="https://www.skills.google/public_profiles/61c9fedc-1b47-469b-8d9e-cbba5ae21c38">
+  <img
+    src="https://img.shields.io/badge/🥇_Gold_League-FFD700?style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.skills.google/public_profiles/61c9fedc-1b47-469b-8d9e-cbba5ae21c38">
+  <img
+    src="https://img.shields.io/badge/⭐_1,571_Points-6A11CB?style=for-the-badge"
+  />
+</a>
+
 </p>
 
+<p align="center">
+  <b>🚀 Exploring Google Cloud • AI • Data • Security • DevOps • Generative AI</b>
+</p>
 
----
+### 🏅 Highlights
+
+- 🥇 **Gold League**
+- ⭐ **1,571 Google Cloud points**
+- 🤖 **Google DeepMind: Train a Small Language Model**
+- 🧠 **Enhance Gemini Model Capabilities**
+- ✨ **Prompt Design in Agent Platform**
+- 🤖 **Engineer AI Agents with Agent Development Kit (ADK)**
+- 🔥 **Build Real World AI Applications with Gemini and Imagen**
+- 📊 **Create ML Models with BigQuery ML**
+- 📈 **Engineer Data for Predictive Modeling with BigQuery ML**
+- ☁️ **Develop Serverless Applications on Cloud Run**
+- 🔐 **Implement Cloud Security Fundamentals**
+- 🚀 **Implement CI/CD Pipelines on Google Cloud**
+- 🐳 **Deploy Kubernetes Applications on Google Cloud**
+- 🗄️ **Build a Data Warehouse with BigQuery**
+- 🌐 **Develop Your Google Cloud Network**
+- 🔑 **Privileged Access with IAM**
+- 📦 **Build Infrastructure with Terraform**
+- 🧩 **Build a Data Mesh with Knowledge Catalog**
+
+### 🎮 Google Cloud Arcade
+
+| Achievement | Status |
+|---|---|
+| 🏕️ Arcade Base Camp — August 2026 | ✅ Earned |
+| 🏕️ Arcade Base Camp — July 2026 | ✅ Earned |
+| 🧩 Arcade Adventure: Data Vault | ✅ Earned |
+| 🌐 Arcade Trail: Cloud Delivery Systems | ✅ Earned |
+| 🔐 Arcade Simulator: Network Security Engineer | ✅ Earned |
+| 📊 Arcade Simulator: Data Mesh Architect | ✅ Earned |
+| 🧰 Arcade Adventure: Low-Code Development | ✅ Earned |
+| 📊 Arcade Voyage: Google Sheets | ✅ Earned |
+| ☁️ Arcade Voyage: Cloud Storage & Data Governance | ✅ Earned |
+| 🏢 Arcade Trail: Google Workspace Administration | ✅ Earned |
+
+<p align="center">
+
+<a href="https://www.skills.google/public_profiles/61c9fedc-1b47-469b-8d9e-cbba5ae21c38">
+  <img src="https://img.shields.io/badge/🔎_View_All_Google_Cloud_Achievements-4285F4?style=for-the-badge" />
+</a>
+
+</p>
 
 <!-- ======================= PROJECTS ======================= -->
 
@@ -247,7 +314,7 @@ Palm vein and face recognition system designed to automate attendance tracking i
 
 <td width="50%">
 
-### 🌱 KisanMitra
+### 🌱 AgroVision
 
 **Smart Farming Platform**
 
@@ -371,7 +438,7 @@ Also worked with Excel/macros and RAG-based analysis to organize and communicate
 
 ### 🔬 Machine Learning Research Assistant — SOA University
 
-**Aug 2025 – Present**
+**Aug 2026 – Present**
 
 Researching **HAGCA-Net**, a hybrid CNN + Transformer architecture for cancer image classification.
 
@@ -380,14 +447,14 @@ Working on scalable AI pipelines for medical image analysis and healthcare appli
 
 ### 💻 CODSOFT — Virtual Internship
 
-**2025**
+**2026**
 
 Applied Python and programming concepts to real-world development assignments and built internship projects.
 
 
 ### 💻 InfoByte — Virtual Internship
 
-**2025**
+**2026**
 
 Completed technical development tasks and used GitHub for project submission and version control.
 
