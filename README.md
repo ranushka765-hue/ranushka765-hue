@@ -654,32 +654,6 @@ Completed challenge labs and explored Google Cloud technologies.
   <i>Every contribution is a small step toward becoming a better developer. 🚀</i>
 </p>
 
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ranushka765-hue
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
 
   <!-- ===================== PHILOSOPHY ======================== -->
 
@@ -798,5 +772,4 @@ Never stop experimenting.
 </a>
 
 </p>
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+          
