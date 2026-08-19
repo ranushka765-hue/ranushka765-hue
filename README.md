@@ -638,24 +638,7 @@ Completed challenge labs and explored Google Cloud technologies.
 
 </p> 
 
-<!-- ================= CONTRIBUTION SNAKE =================== -->
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ranushka765-hue/ranushka765-hue/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="90%"
-  />
-</p>
-
-<p align="center">
-  <i>Every contribution is a small step toward becoming a better developer. 🚀</i>
-</p>
-
-
-  <!-- ===================== PHILOSOPHY ======================== -->
+ <!-- ===================== PHILOSOPHY ======================== -->
 
 ## 💭 My Philosophy
 
