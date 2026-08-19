@@ -21,6 +21,7 @@
 </h1>
 
 <p align="center">
+  <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=6A11CB&center=true&vCenter=true&width=750&lines=🤖+Machine+Learning+Enthusiast;💻+Data+Science+Student;🧠+AI+%26+Deep+Learning+Explorer;🚀+Building+Real-World+Solutions;🌱+Always+Learning+%26+Building"
   />
 </p>
