@@ -438,7 +438,7 @@ Also worked with Excel/macros and RAG-based analysis to organize and communicate
 
 ### 🔬 Machine Learning Research Assistant — SOA University
 
-**Aug 2026 – Present**
+**Aug 2025 – Present**
 
 Researching **HAGCA-Net**, a hybrid CNN + Transformer architecture for cancer image classification.
 
@@ -552,12 +552,12 @@ Completed challenge labs and explored Google Cloud technologies.
 - [x] 💡 Create real-world projects
 - [x] 🧠 Improve problem-solving skills
 - [x] 🌍 Contribute to open source
-- [x] 🛠️ Build something people actually use
-- [x] 📚 Keep learning 🚀
+- [ ] 🛠️ Build something people actually use
+- [ ] 📚 Keep learning 🚀
 
 <p align="center">
 
-### 🎉 6 / 6 Goals Completed
+### 🎉 On progress
 
 </p>
 
@@ -568,81 +568,102 @@ Completed challenge labs and explored Google Cloud technologies.
 
 ## 🌱 My Journey
 
-```text
-2025
- │
- ├── 🎓 Started B.Tech in Data Science
- ├── 💻 Began building AI/ML projects
- ├── 🚀 Smart India Hackathon
- │
- ▼
-2026
- │
- ├── 🏭 Tata Motors Internship
- ├── 🔬 Machine Learning Research
- ├── 🥇 DocSprint 1st Prize
- ├── 🤖 7+ AI/ML Projects
- ├── 🌐 Developer Portfolio
- │
- ▼
-NEXT
- │
- ├── 🌍 Open Source
- ├── 🧠 Advanced AI Research
- ├── 🚀 More Real-World Products
- └── ✨ Keep Building
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Learning+%E2%86%92+Building+%E2%86%92+Researching+%E2%86%92+Growing;Every+project+is+a+step+forward+%F0%9F%9A%80" />
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+
+### 🎓 2025
+
+**Started My Journey**
+
+📚 B.Tech Data Science  
+💻 Started AI/ML  
+🚀 Hackathons  
+🌱 First Real-World Projects
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 2026
+
+**Building & Exploring**
+
+🔬 ML Research  
+🏭 Tata Motors Internship  
+☁️ Google Cloud Arcade  
+🏆 DocSprint — 1st Prize
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠 NOW
+
+**Learning & Research**
+
+🤖 AI & Deep Learning  
+👁️ Computer Vision  
+🧬 CNN + Transformer  
+☁️ Google Cloud
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 NEXT
+
+**What's Coming**
+
+🌍 Open Source  
+💡 More AI Products  
+🔬 Advanced Research  
+✨ Build Something Useful
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+**🎯 Learn something new → Build something useful → Share it → Repeat**
+
+</p> 
 
 <!-- ================= CONTRIBUTION SNAKE =================== -->
-🐍 My Contribution Journey
+
+## 🐍 My Contribution Journey
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/ranushka765-hue/ranushka765-hue/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
+  <img
+    src="https://raw.githubusercontent.com/ranushka765-hue/ranushka765-hue/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
 </p>
-<!-- ===================== PHILOSOPHY ======================== -->
-💭 My Philosophy
+
 <p align="center">
-
-"Don't just learn technology. Build something with it."
-
-</p> <p align="center">
-
-Every project is an opportunity to learn something new,
-solve a problem and become a better developer.
-
+  <i>Every contribution is a small step toward becoming a better developer. 🚀</i>
 </p>
-<!-- ======================= CONNECT ========================= -->
-🌐 Let's Connect
-<p align="center"> <a href="https://ranushka765-hue.github.io/Portfolio/"> <img src="https://img.shields.io/badge/🌐_PORTFOLIO-6A11CB?style=for-the-badge" /> </a> <a href="mailto:ranushka765@gmail.com"> <img src="https://img.shields.io/badge/📧_ranushka765%40gmail.com-EA4335?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/anushka-raj-ba6696385/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/anushkaaaa_77/"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p> <br> <!-- ======================== FOOTER ======================== --> <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=130&section=footer" />
-
-</p> <h3 align="center"> ✨ Keep Learning • Keep Building • Keep Growing ✨ </h3> <p align="center"> ⭐ Thanks for visiting my profile! </p> ```
-🐍 One more file is required for the Snake
-
-The README code above displays the snake, but GitHub needs an Action to generate it.
-
-In your ranushka765-hue/ranushka765-hue profile repository, create:
-
-.github/
-└── workflows/
-    └── snake.yml
-
-Put this in snake.yml:
 
 name: Generate Contribution Snake
-
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-
 
     steps:
       - name: Generate Snake
@@ -651,13 +672,131 @@ jobs:
           github_user_name: ranushka765-hue
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
 
       - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
+
+  <!-- ===================== PHILOSOPHY ======================== -->
+
+## 💭 My Philosophy
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=6A11CB&center=true&vCenter=true&width=750&lines=Don't+just+learn+technology.;Build+something+with+it.+%F0%9F%9A%80"
+  alt="My Philosophy"
+/>
+
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 Learn
+
+Stay curious.  
+Explore new technologies.  
+Understand the fundamentals.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛠️ Build
+
+Turn ideas into projects.  
+Solve real problems.  
+Learn by doing.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Grow
+
+Learn from mistakes.  
+Keep improving.  
+Never stop experimenting.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **"The best way to learn is to build."**
+
+<p align="center">
+  <i>Every bug teaches me something. Every project makes me better.</i> ✨
+</p>
+
+<!-- ======================= CONNECT ========================= -->
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+  <a href="https://ranushka765-hue.github.io/Portfolio/">
+    <img
+      src="https://img.shields.io/badge/🌐_PORTFOLIO-6A11CB?style=for-the-badge&labelColor=111111"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="mailto:ranushka765@gmail.com">
+    <img
+      src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&labelColor=111111"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anushka-raj-ba6696385/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/anushkaaaa_77/">
+    <img
+      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="https://www.skills.google/public_profiles/61c9fedc-1b47-469b-8d9e-cbba5ae21c38">
+    <img
+      src="https://img.shields.io/badge/☁️_GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=111111"
+      alt="Google Cloud"
+    />
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+💌 **Open to collaborations, interesting projects & new opportunities!**
+
+</p>
+
+<p align="center">
+
+<a href="mailto:ranushka765@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Let's%20Build%20Something%20Together!%20🚀-111111?style=for-the-badge"
+  />
+</a>
+
+</p>
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
